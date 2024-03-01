@@ -1,8 +1,8 @@
 <div align='center'>
-<img src='https://img1.picmix.com/output/stamp/normal/9/0/9/4/1644909_3fa86.gif'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
 </div>
 
-### Assalamu Alaikum !
+# Assalamu Alaikum !
 
 <div align="center">
 
