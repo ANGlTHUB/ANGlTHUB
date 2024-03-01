@@ -62,15 +62,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ANGlTHUB/ANGlTHUB/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
 
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
