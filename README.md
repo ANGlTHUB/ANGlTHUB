@@ -76,6 +76,10 @@
       <a href="epic" target="_blank">
     <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" height="26" alt="epic logo"  />
   </a>
+          </a>
+      <a href="valor" target="_blank">
+    <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" height="26" alt="valor logo"  />
+  </a>
 </div>
 
 
