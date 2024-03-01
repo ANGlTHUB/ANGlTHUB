@@ -45,12 +45,10 @@
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCCg7GtlN9xnFEFYwLhCFW2g" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="youtube logo"  />
-  <img width="30" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&" width="30" height="26" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/n_achreff/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-   <img width="30" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" width="30" height="26" alt="instagram logo"  />
   </a>
   <a href="www.discordapp.com/users/n_achreff" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
