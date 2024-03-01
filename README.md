@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Bismillah+Rahman+Rahim ;Enthusiastic+Programmer;Open+Sourc'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=;Enthusiastic+Programmer;Open+Sourc'/>
 </div>
 
 ### Assalamu Alaikum !
