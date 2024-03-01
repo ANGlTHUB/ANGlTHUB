@@ -3,7 +3,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ANGlTHUB.ANGlTHUB&card_width=320"  />
 </div>
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge">
+</a>
 
 ###
 
