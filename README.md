@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=;Enthusiastic+Programmer;Open+Sourc'/>
+<img src='https://img1.picmix.com/output/stamp/normal/9/0/9/4/1644909_3fa86.gif'/>
 </div>
 
 ### Assalamu Alaikum !
