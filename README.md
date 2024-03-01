@@ -93,11 +93,5 @@
 
 </div>
 
-###
-<div align='center'>
-
-https://github.com/ANGlTHUB/ANGlTHUB/assets/73964712/a3e5ce66-1bd3-41ab-9cbc-94902ae8c6f3
-</div>
-
 
 
