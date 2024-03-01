@@ -11,7 +11,10 @@
 <a align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&color=blueviolet&style=for-the-badge">
 </a>
-</div>
+<a align="center" https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&color=blueviolet&style=for-the-badge">
+</a>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANGlTHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=320&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=true" height="149" alt="stats graph"  />
