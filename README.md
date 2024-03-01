@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **anything I can help in.**
 - 👀 I’m interested in **computer science**
-- 👨‍💻 All of my projects are available at under construction
 - 💬 Ask me about **God**
 - 📫 How to reach me **anuri@stud.kpfu.ru**
-- ⚡ Fun fact **I like broken codes**
+- ⚡ Fun fact **My life**
 ##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AN#6882) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/n_achreff) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n_achreff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@AN-vo4vk) 
 
