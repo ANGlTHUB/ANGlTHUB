@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
   </a>
       <a href="+21695026550" target="_blank">
-    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF&style=for-the-badge" height="26" alt="battlenet logo"  />
+    <img src="https://img.shields.io/badge/Battle.net&logo=battle.net&logoColor=148EFF&style=for-the-badge" height="26" alt="battlenet logo"  />
   </a>
       <a href="+21695026550" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
