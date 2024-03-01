@@ -94,7 +94,10 @@
 </div>
 
 ###
+<div align='center'>
 
-https://github.com/ANGlTHUB/ANGlTHUB/assets/73964712/280e5199-9071-478e-b4c7-8e4e5536b97e
+https://github.com/ANGlTHUB/ANGlTHUB/assets/73964712/a3e5ce66-1bd3-41ab-9cbc-94902ae8c6f3
+</div>
+
 
 
