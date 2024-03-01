@@ -5,7 +5,7 @@
 
 
 <a align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&color=blueviolet&style=for-the-badge">
 </a>
 </div>
 
