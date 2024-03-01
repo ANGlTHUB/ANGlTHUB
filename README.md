@@ -67,10 +67,14 @@
     <img src="https://img.shields.io/badge/Battle.net-000?labelColor=&style=for-the-badge&logo=battle.net&logoColor=148EFF" height="26" alt="battlenet logo"  />
   </a>
       <a href="steam" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="26" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="26" alt="steam logo"  />
   </a>
       <a href="riot" target="_blank">
-    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" height="26" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" height="26" alt="riot logo"  />
+  </a>
+      </a>
+      <a href="epic" target="_blank">
+    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" height="26" alt="epic logo"  />
   </a>
 </div>
 
