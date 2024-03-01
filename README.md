@@ -1,9 +1,9 @@
 <h2 align="left">Hi ! My name is Achraf and I'm a Student from Tunisia</h2>
 
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ANGlTHUB/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ANGlTHUB.ANGlTHUB&card_width=320"  />
 </div>
+
 
 ###
 
