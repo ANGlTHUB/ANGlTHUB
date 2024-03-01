@@ -65,7 +65,6 @@
 
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ANGlTHUB&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
