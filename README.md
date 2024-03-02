@@ -1,5 +1,6 @@
 <div align='center'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
+    وَقُلْ رَبِّ زِدْنِي عِلْمًا 
 </div>
 
 # Assalamu Alaikum !
