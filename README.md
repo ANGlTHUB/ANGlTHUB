@@ -91,9 +91,7 @@
     <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" height="26" alt="valor logo"  />
   </a>
 </div>
-<div> 
-    # Certifications
 
-</div>
+# Certifications
 
 
