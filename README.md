@@ -30,7 +30,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="1" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Git-icon-white.svg/1200px-Git-icon-white.svg.png" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" height="30" alt="css3 logo"  />
   <img width="1" />
   <img src="https://pic.onlinewebfonts.com/thumbnails/icons_195128.svg" height="30" alt="css3 logo"  />
   <img width="1" />
