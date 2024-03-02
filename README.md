@@ -15,6 +15,9 @@
 <a align="center" ">
     <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
 </a>
+<a align="center" ">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+</a>
 
 
 <div align="center">
