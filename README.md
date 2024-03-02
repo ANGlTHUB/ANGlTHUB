@@ -91,11 +91,9 @@
     <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" height="26" alt="valor logo"  />
   </a>
 </div>
-
-
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px width : 400px;"/>
+<div> 
+    # Certifications
 
 </div>
-
 
 
