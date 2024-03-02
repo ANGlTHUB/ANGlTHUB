@@ -32,7 +32,7 @@
   <img width="1" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Git-icon-white.svg/1200px-Git-icon-white.svg.png" height="30" alt="css3 logo"  />
   <img width="1" />
-  <img src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" height="30" alt="css3 logo"  />
+  <img src="https://pic.onlinewebfonts.com/thumbnails/icons_195128.svg" height="30" alt="css3 logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="1" />
