@@ -91,9 +91,11 @@
     <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" height="26" alt="valor logo"  />
   </a>
 </div>
+<div align="left">
+    
+### Certifications
 
-# Certifications
-###
+</div>
 <div align="left">
   <img align="center" src="https://images.credly.com/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png" height="150"   />
   <img align="center" src="https://images.credly.com/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" height="150" />
