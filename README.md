@@ -1,6 +1,6 @@
 <div align='center'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
-    وَقُلْ رَبِّ زِدْنِي عِلْمًا 
+    <div align='center'>فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا</div>                           
 </div>
 
 # Assalamu Alaikum !
