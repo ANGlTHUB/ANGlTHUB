@@ -25,8 +25,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANGlTHUB&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=5&theme=shadow_blue&hide_border=true" width="262" height="130" alt="languages graph"  />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ANGlTHUB&locale=en&hide_title=false&layout=compact&theme=shadow_blue&hide_border=true" height="130" width="262" alt="GitHub Stats"  />
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?ANGlTHUB=ryo-ma&theme=onedark)]
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=ANGlTHUB&theme=darkhub"
+</div>
 
 <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saladin.svg/512px-Flag_of_Saladin.svg.png"  />
 
