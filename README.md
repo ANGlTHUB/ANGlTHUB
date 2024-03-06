@@ -4,7 +4,9 @@
 </div>
 
 # Assalamu Alaikum !
-
+<div align="center">
+    quote
+</div>
 <div align="center">
 
 
