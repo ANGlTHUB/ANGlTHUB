@@ -54,6 +54,19 @@
   <img width="1" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1024px-OBS.svg.png" height="30" alt="firefox logo"  />
 </div>
+
+ </div>
+<div align="left">
+  <img align="center" src="https://images.credly.com/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png" height="100" width="100"   />
+  <img align="center" src="https://images.credly.com/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" height="100" width="100" />
+  <img align="center" src="https://images.credly.com/images/7e0874b9-a282-43cc-9e52-a3a1587301fe/image.png" height="100" width="100" />
+  <img align="center" src="https://images.credly.com/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"height="100" width="100"  />
+  <img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="100" width="100"  />
+</div>
+
+
+    
+</div>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCCg7GtlN9xnFEFYwLhCFW2g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&" height="26" alt="youtube logo"  />
@@ -100,16 +113,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wmdabes&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wmdabes&redirect=true)
 
 </div>
-</div>
-<div align="left">
-  <img align="center" src="https://images.credly.com/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png" height="100" width="100"   />
-  <img align="center" src="https://images.credly.com/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" height="100" width="100" />
-  <img align="center" src="https://images.credly.com/images/7e0874b9-a282-43cc-9e52-a3a1587301fe/image.png" height="100" width="100" />
-  <img align="center" src="https://images.credly.com/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"height="100" width="100"  />
-  <img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="100" width="100"  />
-</div>
-</div>
-    
+
 ### Certifications
 
 </div>
