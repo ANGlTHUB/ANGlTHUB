@@ -55,7 +55,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1024px-OBS.svg.png" height="30" alt="firefox logo"  />
 </div>
     
-<div align="right">
+<div align="right" hight="300" width="200">
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wmdabes&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wmdabes&redirect=true)
 
