@@ -26,7 +26,7 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ANGlTHUB&locale=en&hide_title=false&layout=compact&theme=shadow_blue&hide_border=true" height="130" width="262" alt="GitHub Stats"  />
 </div>
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=ANGlTHUB&no-bg=true"
+    <img align="center" width="800" src="https://github-profile-trophy.vercel.app/?username=ANGlTHUB&no-bg=true"
 </div>
 
 <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saladin.svg/512px-Flag_of_Saladin.svg.png"  />
