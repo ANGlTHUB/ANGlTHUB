@@ -101,52 +101,14 @@
 
 </div>
 </div>
-
-###
-
-###
-
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCCg7GtlN9xnFEFYwLhCFW2g" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&" height="26" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/n_achreff/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-  </a>
-  <a href="www.discordapp.com/users/n_achreff" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
-  </a>
-     <a href="https://www.reddit.com/user/AN_Mantis/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="26" alt="discord logo"  />
-  </a>
-  <a href="achref.nouri.pro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
-  </a>
-  <a href="@AN_Mantis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="telegram logo"  />
-  </a>
-  <a href="+21695026550" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
-  </a>
-      <a href="ANBattle#2434" target="_blank">
-    <img src="https://img.shields.io/badge/Battle.net-000?labelColor=&style=for-the-badge&logo=battle.net&logoColor=148EFF" height="26" alt="battlenet logo"  />
-  </a>
-      <a href="steam" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="26" alt="steam logo"  />
-  </a>
-      <a href="riot" target="_blank">
-    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" height="26" alt="riot logo"  />
-  </a>
-      </a>
-      <a href="epic" target="_blank">
-    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" height="26" alt="epic logo"  />
-  </a>
-          </a>
-      <a href="valor" target="_blank">
-    <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" height="26" alt="valor logo"  />
-  </a>
+  <img align="center" src="https://images.credly.com/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png" height="100" width="100"   />
+  <img align="center" src="https://images.credly.com/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" height="100" width="100" />
+  <img align="center" src="https://images.credly.com/images/7e0874b9-a282-43cc-9e52-a3a1587301fe/image.png" height="100" width="100" />
+  <img align="center" src="https://images.credly.com/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"height="100" width="100"  />
+  <img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="100" width="100"  />
 </div>
-<div align="left">
+</div>
     
 ### Certifications
 
