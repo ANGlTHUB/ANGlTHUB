@@ -105,7 +105,6 @@
 
 </div>
 
-### Certifications
 
 </div>
 <div align="left">
