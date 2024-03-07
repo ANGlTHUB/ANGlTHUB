@@ -5,7 +5,7 @@
 
 # Assalamu Alaikum !
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote&type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=7ezdouni%fi%chitani%wma%9alouch%tbarkalah%3leya&type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #
 <div align="center">
