@@ -5,7 +5,7 @@
 
 # Assalamu Alaikum !
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=jil%tayer%bikom%wjil%hayer%fikom%wena%jit%mel%jil%ly%hachih%lakom&type=horizontal&theme=dark&border=fasle)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=jil%20tayer%20bikom%20wjil%20hayer%20fikom%wena%20jit%20mel%20jil%20ly%20hachih%20lakom&type=horizontal&theme=dark&border=fasle)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #
 <div align="center">
