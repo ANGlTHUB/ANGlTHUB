@@ -26,7 +26,7 @@
 
     
 <div id="image-table">
-    <table class="tab" >
+    <table style="width:100%" >
 	    <tr>
     	    <td >
                 
@@ -58,12 +58,3 @@
   <img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="100" width="100"  />
 </div>
 
-
-
-
-
-<style>
-.tab {border-collapse:collapse;}
-.tab .first {border-bottom:1px solid #EEE;}
-.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
-</style>
