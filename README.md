@@ -2,7 +2,9 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
     <div align='center'>فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا</div>                           
 </div>
+
 # Assalamu Alaikum ! 
+
 <div align="center">
 <a align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&color=blueviolet&style=for-the-badge">
@@ -23,6 +25,7 @@
 
 
 <div align="left">
+    
 ### Certifications
   <img align="center" src="https://images.credly.com/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png" height="100" width="100"   />
   <img align="center" src="https://images.credly.com/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" height="100" width="100" />
