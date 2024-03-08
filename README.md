@@ -25,6 +25,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ANGlTHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=320&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=true" width="260" height="150" alt="stats graph"  />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANGlTHUB&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=5&theme=shadow_blue&hide_border=true" width="260" height="150" alt="languages graph" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ANGlTHUB&locale=en&hide_title=false&layout=compact&theme=shadow_blue&hide_border=true" height="150" width="260" alt="GitHub Stats"  />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-blue&hide_border=true&border_radius=0&card_width=260)](https://git.io/streak-stats)  
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-blue&hide_border=true&border_radius=0&card_width=260&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
@@ -120,5 +122,3 @@
   <img align="center" src="https://images.credly.com/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"height="100" width="100"  />
   <img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="100" width="100"  />
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&hide_border=true&card_width=450)](https://git.io/streak-stats)
