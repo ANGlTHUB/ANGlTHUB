@@ -6,7 +6,7 @@
 # Assalamu Alaikum ! 
 
 <div align="center">
-<a align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
+<a align="center" href="https://github.com/antonkomarev/github-profile-views-counter&abbreviated=true">
     <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&color=blueviolet&style=for-the-badge">
 </a>
 <a align="center" ">
