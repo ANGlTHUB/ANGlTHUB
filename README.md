@@ -16,7 +16,7 @@
 </div>
     
 <div id="image-table">
-    <table>
+    <table cellspacing="0" cellpadding="0">
 	    <tr>
     	    <td style="padding:10px">
                 
