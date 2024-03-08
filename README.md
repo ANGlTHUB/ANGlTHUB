@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ANGlTHUB&style=flat-square&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=ANGlTHUB&style=flat-square)
     <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&color=blueviolet&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
