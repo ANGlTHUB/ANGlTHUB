@@ -5,7 +5,7 @@
 
 # Assalamu Alaikum ! 
 
-<div align="center">
+<div align="left">
 
 ![](https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge)
     <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
