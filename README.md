@@ -119,3 +119,4 @@
   <img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="100" width="100"  />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&hide_border=true&card_width=450)](https://git.io/streak-stats)
