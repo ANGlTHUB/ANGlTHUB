@@ -24,8 +24,10 @@
 <div >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ANGlTHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=320&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=true" width="260" height="150" alt="stats graph"  />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANGlTHUB&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=5&theme=shadow_blue&hide_border=true" width="260" height="150" alt="languages graph" />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-blue&hide_border=true&border_radius=0&card_width=260&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ANGlTHUB&locale=en&hide_title=false&layout=compact&theme=shadow_blue&hide_border=true" height="150" width="260" alt="GitHub Stats"  />
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-blue&hide_border=true&border_radius=0&card_width=260&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 <div>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=ANGlTHUB&no-bg=true&no-frame=true&margin-w=20&margin-h=20&row=7&column=-1"
 </div>
