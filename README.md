@@ -6,8 +6,8 @@
 # Assalamu Alaikum !   
 
 <div id="table">
-    <table style="width:100%" >
-	    <tr>
+    <table style="width:100%" cellspacing="3" bgcolor="#000000" >
+	    <tr bgcolor="#ffffff" >
     	    <td >
                 
 ![](https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge)
