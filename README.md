@@ -16,9 +16,9 @@
 </div>
     
 <div id="image-table">
-    <table cellspacing="0" cellpadding="0">
+    <table >
 	    <tr>
-    	    <td style="padding:10px">
+    	    <td >
                 
 ![](https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge)
     <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
