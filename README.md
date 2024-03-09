@@ -9,6 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge)
     <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=ANGlTHUB)](https://git.io/streak-stats)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wmdabes&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
