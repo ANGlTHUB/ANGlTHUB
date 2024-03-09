@@ -18,11 +18,30 @@
 </div>
 
 
---- | --- | --- | ---
+```
+                   -`
+                  .o+`
+                 `ooo/                   an@AORUS 
+                `+oooo:                  -------- 
+               `+oooooo:                 OS: Arch Linux x86_64 
+               -+oooooo+:                Host: AORUS 15P KD 
+             `/:-:++oooo+:               Kernel: 6.7.9-arch1-1 
+            `/++++/+++++++:              Uptime: 3 hours, 28 mins 
+           `/++++++++++++++:             Packages: 1155 (pacman), 54 (flatpak) 
+          `/+++ooooooooooooo/`           Shell: zsh 5.9 
+         ./ooosssso++osssssso+`          Resolution: 1920x1080 
+        .oossssso-````/ossssss+`         DE: GNOME 45.4 
+       -osssssso.      :ssssssso.        WM: Mutter 
+      :osssssss/        osssso+++.       WM Theme: Orchis-Green-Dark-Compact 
+     /ossssssss/        +ssssooo/-       Theme: Orchis-Green-Compact [GTK2/3] 
+   `/ossssso+/:-        -:/+osssso+-     Icons: Papirus [GTK2/3] 
+  `+sso+:-`                 `.-/+oso:    Terminal: kgx 
+ `++:.                           `-/+/   CPU: 11th Gen Intel i7-11800H (16) @ 4.600GHz 
+ .`                                 `/   GPU: NVIDIA GeForce RTX 3060 Mobile / Max-Q 
+                                         GPU: Intel TigerLake-H GT1 [UHD Graphics] 
+                                         Memory: 7116MiB / 15734MiB 
 
---- | --- | --- | ---
-
-
+```
 
 
 
