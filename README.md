@@ -13,34 +13,14 @@
     <div align="right">
     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wmdabes&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-green&hide_border=true&card_width=350)](https://git.io/streak-stats)
 </div>
 </div>
 </div>
 
 
 ```
-                   -`
-                  .o+`
-                 `ooo/                   an@AORUS 
-                `+oooo:                  -------- 
-               `+oooooo:                 OS: Arch Linux x86_64 
-               -+oooooo+:                Host: AORUS 15P KD 
-             `/:-:++oooo+:               Kernel: 6.7.9-arch1-1 
-            `/++++/+++++++:              Uptime: 3 hours, 28 mins 
-           `/++++++++++++++:             Packages: 1155 (pacman), 54 (flatpak) 
-          `/+++ooooooooooooo/`           Shell: zsh 5.9 
-         ./ooosssso++osssssso+`          Resolution: 1920x1080 
-        .oossssso-````/ossssss+`         DE: GNOME 45.4 
-       -osssssso.      :ssssssso.        WM: Mutter 
-      :osssssss/        osssso+++.       WM Theme: Orchis-Green-Dark-Compact 
-     /ossssssss/        +ssssooo/-       Theme: Orchis-Green-Compact [GTK2/3] 
-   `/ossssso+/:-        -:/+osssso+-     Icons: Papirus [GTK2/3] 
-  `+sso+:-`                 `.-/+oso:    Terminal: kgx 
- `++:.                           `-/+/   CPU: 11th Gen Intel i7-11800H (16) @ 4.600GHz 
- .`                                 `/   GPU: NVIDIA GeForce RTX 3060 Mobile / Max-Q 
-                                         GPU: Intel TigerLake-H GT1 [UHD Graphics] 
-                                         Memory: 7116MiB / 15734MiB 
-
+code ...
 ```
 
 
