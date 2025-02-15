@@ -1,30 +1,33 @@
 <div align='center'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
-    <div align='center'>فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا</div>                           
+    <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
+    <h3>فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا</h3>
 </div>
 
-# Assalamu Alaikum !   
-<div align="center">
-    <div align="left">
- </div>
- 
-### I'm an IT student debugging life… one error at a time. Also, my hair executed ```rm -rf / ``` and never respawned.
+---
 
+# 👋 Assalamu Alaikum!  Welcome to My GitHub  
 <div align="center">
-<div align="left">
-    
-![](https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge)
+    <h3>I'm an IT student debugging life... one error at a time. 💻</h3>
+    <h4>Also, my hair executed <code>rm -rf /</code> and never respawned. 😆</h4>
+</div>
+
+---
+
+### 🔥 Tech & Stats  
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-    <div align="right">
-[![GitHub Streak](https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-green&hide_border=true&card_width=350)](https://git.io/streak-stats)
-</div>
-</div>
 </div>
 
-<div>
-    
-```
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-green&hide_border=true&card_width=400">
+</div>
+
+---
+
+## 😆 Fun Python Code  
+```python
 import random
 
 def ai_takeover():
@@ -42,8 +45,7 @@ def ai_takeover():
     print("\n🤖 AI: Shutting down... Maybe next century.")
 
 ai_takeover()
-```
-</div>
+
 
 
 
