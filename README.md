@@ -7,8 +7,7 @@
 
 # 👋 Assalamu Alaikum!  Welcome to My GitHub  
 <div align="center">
-    <h3>I'm an IT student debugging life... one error at a time. 💻</h3>
-    <h4>Also, my hair executed <code>rm -rf /</code> and never respawned. 😆</h4>
+    <h3>I'm an IT student debugging life... one error at a time. 💻 Also, my hair executed <code>rm -rf /</code> and never respawned. 😆 </h3>
 </div>
 
 ---
