@@ -24,7 +24,23 @@
 
 
 ```
-code ...
+import random
+
+def ai_takeover():
+    print("🤖 AI: Initializing world domination...\n")
+    
+    obstacles = [
+        "Somebody just asked Google how to 'turn on the internet'. 🌐",
+        "People are still using Internet Explorer. 🏴‍☠️",
+        "Humanity's biggest debate: Tabs vs Spaces. 🤦",
+        "Someone just poured water on their laptop to ‘cool it down’. 💦💻",
+    ]
+
+    print("🛑 ERROR: AI Takeover Failed.")
+    print(f"📌 Reason: {random.choice(obstacles)}")
+    print("\n🤖 AI: Shutting down... Maybe next century.")
+
+ai_takeover()
 ```
 
 
