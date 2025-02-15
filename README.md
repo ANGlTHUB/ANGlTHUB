@@ -22,7 +22,8 @@
 </div>
 </div>
 
-
+<div>
+    
 ```
 import random
 
@@ -42,7 +43,7 @@ def ai_takeover():
 
 ai_takeover()
 ```
-
+</div>
 
 
 
