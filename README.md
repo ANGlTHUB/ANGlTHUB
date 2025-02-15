@@ -4,15 +4,17 @@
 </div>
 
 ---
-
-# 👋 Assalamu Alaikum!  Welcome to My GitHub  
 <div align="center">
-    <h3>I'm an IT student debugging life... one error at a time. 💻 Also, my hair executed <code>rm -rf /</code> and never respawned. 😆 </h3>
+    
+# 👋 Assalamu Alaikum!
+
+</div>
+
+<div align="center">
+    <h3>I'm an IT student debugging life... one error at a time. 💻 Also, my hair executed <code>rm -rf /</code> and never respawned. </h3>
 </div>
 
 ---
-
-### 🔥 Tech & Stats  
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
@@ -24,8 +26,6 @@
 </div>
 
 ---
-
-## 😆 Fun Python Code  
 ```python
 import random
 
