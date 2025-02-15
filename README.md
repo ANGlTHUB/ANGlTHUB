@@ -4,7 +4,12 @@
 </div>
 
 # Assalamu Alaikum !   
+<div align="center">
+    <div align="left">
+ </div>
+ 
 ### I'm an IT student debugging life… one error at a time. Also, my hair executed ```rm -rf / ``` and never respawned.
+
 <div align="center">
 <div align="left">
     
