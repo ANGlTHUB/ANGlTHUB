@@ -16,8 +16,8 @@
 
 ---
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ANGlTHUB&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/ANGlTHUB?logo=GitHub&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=4chref&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/4chref?logo=GitHub&style=for-the-badge">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </div>
 
