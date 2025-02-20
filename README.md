@@ -27,23 +27,25 @@
 
 ---
 ```python
-import random
 
-def ai_takeover():
-    print("🤖 AI: Initializing world domination...\n")
-    
-    obstacles = [
-        "Somebody just asked Google how to 'turn on the internet'. 🌐",
-        "People are still using Internet Explorer. 🏴‍☠️",
-        "Humanity's biggest debate: Tabs vs Spaces. 🤦",
-        "Someone just poured water on their laptop to ‘cool it down’. 💦💻",
-    ]
 
-    print("🛑 ERROR: AI Takeover Failed.")
-    print(f"📌 Reason: {random.choice(obstacles)}")
-    print("\n🤖 AI: Shutting down... Maybe next century.")
+                                                             ,       
+                                                             Et      
+          .       .,                                         E#t     
+         ,W      ,Wt .    .      j.                          E##t    
+        i##     i#D. Di   Dt     EW,                   ..    E#W#t   
+       f###    f#f   E#i  E#i    E##j                 ;W,    E#tfL.  
+      G####  .D#i    E#t  E#t    E###D.              j##,    E#t     
+    .K#Ki## :KW,     E#t  E#t    E#jG#W;            G###, ,ffW#Dffj. 
+   ,W#D.,## t#f      E########f. E#t t##f         :E####,  ;LW#ELLLf.
+  i##E,,i##, ;#G     E#j..K#j... E#t  :K#E:      ;W#DG##,    E#t     
+ ;DDDDDDE##DGi:KE.   E#t  E#t    E#KDDDD###i    j###DW##,    E#t     
+        ,##    .DW:  E#t  E#t    E#f,t#Wi,,,   G##i,,G##,    E#t     
+        ,##      L#, f#t  f#t    E#t  ;#W:   :K#K:   L##,    E#t     
+        .E#       jt  ii   ii    DWi   ,KK: ;##D.    L##,    E#t     
+          t                                 ,,,      .,,     ;#t     
+                                                              :;     
 
-ai_takeover()
 
 
 
