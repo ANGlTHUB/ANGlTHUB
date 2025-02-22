@@ -35,9 +35,8 @@
   </a>
 </p>
 
----
-```python
-
+<div align="center">
+<pre>
 
            ____   ____    ___________          _     ________
           6MMMMb/ `MM'    `MM`MMMMMMMb.       dM.    `MMMMMMM
@@ -52,10 +51,10 @@
 MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_    
      MM                                                      
      MM                                                      
-     MM                                                      
-
-
- ```
+     MM
+                                                   
+</pre>
+</div>
 
 
 
