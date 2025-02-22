@@ -22,6 +22,17 @@
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
     <img src="https://img.shields.io/discord/[SERVER_ID]?style=for-the-badge&logo=discord">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+    <!-- VS Code -->
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+<!-- DaVinci Resolve -->
+<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white">
+
+<!-- KDE Plasma -->
+<img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white">
+
+<!-- Steam -->
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 
 <div align="center">
