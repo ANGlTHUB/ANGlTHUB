@@ -30,21 +30,23 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; margin: 0; padding: 0; gap: 20px; box-sizing: border-box;">
-  <!-- Streak Stats (50% width) -->
-  <div style="width: 50%; max-width: 50%; flex-shrink: 0;">
-    <a href="https://git.io/streak-stats" style="display: block; width: 100%;">
-      <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" 
-           style="width: 50%; height: auto; display: block;">
-    </a>
-  </div>
-
-  <!-- GIF (50% width) -->
-  <div style="width: 50%; max-width: 50%; flex-shrink: 0; text-align: center;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" 
-         style="max-width: 50%; height: auto; display: inline-block;">
-  </div>
-</div>
+<!-- Table with invisible borders -->
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; margin: 0; padding: 0;">
+  <tr>
+    <!-- Streak Stats Column -->
+    <td style="border: none; padding: 0; width: 50%; vertical-align: middle;">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" 
+             style="width: 100%; display: block;">
+      </a>
+    </td>
+    <!-- GIF Column -->
+    <td style="border: none; padding: 0; width: 50%; text-align: center; vertical-align: middle;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcril0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" 
+           style="max-width: 100%; height: auto; display: inline-block;">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <pre>      ____   ____    ___________          _     ________
