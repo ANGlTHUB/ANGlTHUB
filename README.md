@@ -30,10 +30,10 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="max-width: 50%; height: auto;">
+  <a href="https://git.io/streak-stats" style="flex: 1;">
+    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="width: 100%; height: auto;">
   </a>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" style="max-width: 50%; height: auto;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" style="width: 100%; height: auto; flex: 1;">
 </div>
 
 <div align="center">
