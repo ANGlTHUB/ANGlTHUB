@@ -20,23 +20,13 @@
     <img src="https://img.shields.io/github/followers/4chref?logo=GitHub&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/4chref?style=for-the-badge&logo=github">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white">
     <img src="https://img.shields.io/discord/[SERVER_ID]?style=for-the-badge&logo=discord">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-    <!-- VS Code -->
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-<!-- DaVinci Resolve -->
-<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white">
-
-<!-- KDE Plasma -->
-<img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white">
-
-<!-- Steam -->
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</div>
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=ANGlTHUB&theme=shadow-green&hide_border=true&card_width=400">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
+    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 
 ---
