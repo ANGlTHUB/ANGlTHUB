@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
     <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
     <h3>فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا</h3>
 </div>
@@ -16,14 +16,12 @@
 </div>
 
 ---
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=4chref&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/4chref?logo=GitHub&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/4chref?style=for-the-badge&logo=github">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
     <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white">
-    <img src="https://img.shields.io/discord/[SERVER_ID]?style=for-the-badge&logo=discord">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
@@ -31,16 +29,18 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <div style="max-width: 300px;">
-        <a href="https://git.io/streak-stats">
-            <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8">
-        </a>
-    </div>
-    <div>
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" height="150">
-    </div>
-</div>
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8">
+      </a>
+    </td>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" width="180">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <pre>      ____   ____    ___________          _     ________
@@ -59,8 +59,6 @@ MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_
 
 </pre>
 </div>
-
----
 
 <div align="left">
     
