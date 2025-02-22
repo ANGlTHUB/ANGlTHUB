@@ -36,8 +36,7 @@
 </p>
 
 <div align="center">
-<pre>
-           ____   ____    ___________          _     ________
+<pre>      ____   ____    ___________          _     ________
           6MMMMb/ `MM'    `MM`MMMMMMMb.       dM.    `MMMMMMM
          8P    YM  MM      MM MM    `Mb      ,MMb     MM    \
         6M      Y  MM      MM MM     MM      d'YM.    MM     
@@ -49,9 +48,7 @@
 ,d   MM  8b    d9  MM      MM MM    \M\   d'      YM. MM     
 MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_    
      MM                                                      
-     MM                                                      
-     
-                                                   
+     MM                                                                                               
 </pre>
 </div>
 
