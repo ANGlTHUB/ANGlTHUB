@@ -29,21 +29,16 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 
-<table align="left">
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8">
-      </a>
-    </td>
-    <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" width="180">
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8">
+  </a>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" height="150" style="margin-left: 10px;">
+</div>
 
 <div align="center">
-<pre>      ____   ____    ___________          _     ________
+<pre>
+      ____   ____    ___________          _     ________
           6MMMMb/ `MM'    `MM`MMMMMMMb.       dM.    `MMMMMMM
          8P    YM  MM      MM MM    `Mb      ,MMb     MM    \
         6M      Y  MM      MM MM     MM      d'YM.    MM     
@@ -56,7 +51,6 @@
 MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_    
      MM                                                      
      MM                                                      
-
 </pre>
 </div>
 
@@ -66,5 +60,5 @@ MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_
   <img align="center" src="https://images.credly.com/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png" height="100" width="100"   />
   <img align="center" src="https://images.credly.com/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" height="100" width="100" />
   <img align="center" src="https://images.credly.com/images/7e0874b9-a282-43cc-9e52-a3a1587301fe/image.png" height="100" width="100" />
-  <img align="center" src="https://images.credly.com/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" height="100" width="100"  />
+  <img align="center" src="https://images.credly.com/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"height="100" width="100"  />
 </div>
