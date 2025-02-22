@@ -37,7 +37,6 @@
 
 <div align="center">
 <pre>
-
            ____   ____    ___________          _     ________
           6MMMMb/ `MM'    `MM`MMMMMMMb.       dM.    `MMMMMMM
          8P    YM  MM      MM MM    `Mb      ,MMb     MM    \
