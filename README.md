@@ -11,7 +11,8 @@
 </div>
 
 <div align="center">
-    <h3>I'm an IT student debugging life... one error at a time. 💻 Also, my hair executed <code>rm -rf /</code> and never respawned. </h3>
+    <h3>"The more data you collect, the more you become a target."
+– Bruce Schneier </h3>
 </div>
 
 ---
