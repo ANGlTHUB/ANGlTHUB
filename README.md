@@ -34,7 +34,9 @@
     <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8">
   </a>
 </p>
-
+<div align="center">
+  <img src="https://ghchart.rshah.org/4chref/2D3748/transparent" alt="Contributions">
+</div>
 <div align="center">
 <pre>      ____   ____    ___________          _     ________
           6MMMMb/ `MM'    `MM`MMMMMMMb.       dM.    `MMMMMMM
