@@ -31,13 +31,13 @@
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px; width: 100%; margin: 0; padding: 0;">
-  <div style="width: 100%;">
+  <div style="width: 50%;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="width: 100%">
     </a>
   </div>
   
-  <div style="width: 100%; text-align: center;">
+  <div style="width: 50%; text-align: center;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" style="width: 100%; max-width: 400px; height: auto;">
   </div>
 </div>
