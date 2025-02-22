@@ -31,7 +31,7 @@
 </div>
 
 <!-- Modified section with GIF side-by-side -->
-<table>
+<table  border="0">
   <tr>
     <td width="60%">
       <p align="left">
