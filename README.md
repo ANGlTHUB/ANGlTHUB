@@ -55,6 +55,45 @@ MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_
 </pre>
 </div>
 
+<!-- Colorful ASCII Art (save as colorful-art.svg) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200" style="background: transparent;">
+  <text x="50" y="30" font-family="monospace" font-size="14" fill="#00ffff">
+           ____   ____    ___________          _     ________
+  </text>
+  <text x="50" y="45" font-family="monospace" font-size="14" fill="#ff00ff">
+          6MMMMb/ `MM'    `MM`MMMMMMMb.       dM.    `MMMMMMM
+  </text>
+  <text x="50" y="60" font-family="monospace" font-size="14" fill="#00ff00">
+         8P    YM  MM      MM MM    `Mb      ,MMb     MM    \
+  </text>
+  <text x="50" y="75" font-family="monospace" font-size="14" fill="#ff0000">
+        6M      Y  MM      MM MM     MM      d'YM.    MM     
+  </text>
+  <text x="50" y="90" font-family="monospace" font-size="14" fill="#ffff00">
+     ,M MM         MM      MM MM     MM     ,P `Mb    MM   , 
+  </text>
+  <text x="50" y="105" font-family="monospace" font-size="14" fill="#ffa500">
+    ,dM MM         MMMMMMMMMM MM    .M9     d'  YM.   MMMMMM 
+  </text>
+  <text x="50" y="120" font-family="monospace" font-size="14" fill="#ff1493">
+   ,dMM MM         MM      MM MM  \M\      d'    YM.  MM   ` 
+  </text>
+  <text x="50" y="135" font-family="monospace" font-size="14" fill="#00bfff">
+  ,d MM YM      6  MM      MM MM   \M\    ,MMMMMMMMb  MM     
+  </text>
+  <text x="50" y="150" font-family="monospace" font-size="14" fill="#9400d3">
+ ,d  MM  8b    d9  MM      MM MM    \M\   d'      YM. MM     
+  </text>
+  <text x="50" y="165" font-family="monospace" font-size="14" fill="#ff4500">
+,d   MM   YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_    
+  </text>
+  <text x="50" y="180" font-family="monospace" font-size="14" fill="#32cd32">
+     MM                                                      
+  </text>
+  <text x="50" y="195" font-family="monospace" font-size="14" fill="#32cd32">
+     MM
+  </text>
+</svg>
 
 
 
