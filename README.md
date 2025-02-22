@@ -29,11 +29,12 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; width: 100%;">
-  <a href="https://git.io/streak-stats" style="flex: 1; max-width: 50%;">
-    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="width: 100%; height: 150px;">
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8">
   </a>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" style="flex: 1; max-width: 50%; height: 150px; margin-left: 10px;">
+  <br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif">
 </div>
 
 <div align="center">
