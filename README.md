@@ -29,11 +29,22 @@
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8">
-  </a>
-</p>
+
+<!-- Modified section with GIF side-by-side -->
+<table>
+  <tr>
+    <td width="60%">
+      <p align="left">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="max-width: 100%">
+        </a>
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm55OWNjZTBuNDRzN2twMHk3YXAyYTlsMWxtZTl6NWp5aHNkcml0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdLH51eNWZAHrwy5mf/giphy.gif" width="400">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <pre>      ____   ____    ___________          _     ________
@@ -53,24 +64,6 @@ MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_
 </pre>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="left">
     
 ### Certifications
@@ -79,4 +72,3 @@ MMMMMMMM  YMMMM9  _MM_    _MM_MM_    \M\_dM_     _dMM_MM_
   <img align="center" src="https://images.credly.com/images/7e0874b9-a282-43cc-9e52-a3a1587301fe/image.png" height="100" width="100" />
   <img align="center" src="https://images.credly.com/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"height="100" width="100"  />
 </div>
-
