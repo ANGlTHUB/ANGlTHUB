@@ -24,16 +24,14 @@
     <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
 
 <div align="center" style="display: flex;>
   <a href="https://git.io/streak-stats" style="flex: 1;">
     <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="width: 40%; ">
   </a>
-        <img src="https://i.giphy.com/LmBsnpDCuturMhtLfw.webp" style="width: 40%; height: 30;">
+        <img src="https://i.giphy.com/LmBsnpDCuturMhtLfw.webp" style="width: 40%; height: 30%;">
 </div>
 
 <div align="center">
