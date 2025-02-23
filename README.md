@@ -31,7 +31,7 @@
 
 <div align="center" style="display: flex;>
   <a href="https://git.io/streak-stats" style="flex: 1;">
-    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="width: 40%; height: 60;">
+    <img src="https://streak-stats.demolab.com?user=4chref&theme=transparent&background=TRANSPARENT&hide_border=true&currStreakLabel=00B4D8&fire=00B4D8&ring=00B4D8&currStreakNum=00B4D8" style="width: 40%; ">
   </a>
         <img src="https://i.giphy.com/LmBsnpDCuturMhtLfw.webp" style="width: 40%; height: 30;">
 </div>
